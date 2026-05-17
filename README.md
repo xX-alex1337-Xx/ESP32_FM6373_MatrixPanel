@@ -109,7 +109,7 @@ PIN_MAPPING.md
 ### Build
 
 ```bash
-git clone https://github.com/your-username/your-repo-name
+git clone https://github.com/xX-alex1337-Xx/ESP32_FM6373_MatrixPanel
 cd your-repo-name
 idf.py set-target esp32s3
 idf.py build
